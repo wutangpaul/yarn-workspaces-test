@@ -1,5 +1,4 @@
-const Thing = (parameter) => {
-  return `Hello ${parameter}`;
-};
+const Thing = (parameter) => `Hello ${parameter}`;
 
+// eslint-disable-next-line import/prefer-default-export
 export { Thing };

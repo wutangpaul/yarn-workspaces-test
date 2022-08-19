@@ -2,5 +2,9 @@
   "name": "@rsc/ui-components",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@rsc/eslint-config": "*",
+    "@rsc/prettier-config": "*"
+  }
 }
